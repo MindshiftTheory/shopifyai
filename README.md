@@ -1,0 +1,2 @@
+# shopifyai
+Shopify AI Integration
